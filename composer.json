@@ -1,0 +1,8 @@
+{
+    "name": "edu/icatalogo-mvc",
+    "autoload": {
+        "psr-4": {
+            "App\\": "App/"
+        }
+    }
+}
